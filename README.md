@@ -90,7 +90,7 @@ Status box fields:
 - `Helpful Swaps`: guilt swaps that reduced inversion count.
 - `Sorted`: current sorted check result.
 
-## Your Sorted Figure (Example)
+## Sorted Figure (Example)
 
 ![Sorted Procrastination Sort Output](example/1.png)
 
@@ -102,7 +102,7 @@ What this image shows:
 - `Guilt Swaps: 43` with `Helpful Swaps: 23` means around half of guilt swaps helped and half were wasted/noisy.
 - The action line "Sorted at the last moment" confirms completion happened near the end of allowed steps.
 
-In short: the screenshot perfectly matches the intended personality of Procrastination Sort: long delay, chaotic partial progress, and eventual finish.
+In short: this perfectly matches the intended personality of Procrastination Sort: long delay, chaotic partial progress, and eventual finish.
 
 ## Setup
 
